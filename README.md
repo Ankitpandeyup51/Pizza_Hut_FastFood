@@ -35,10 +35,9 @@ GitHub: @Ankitpandeyup51
 If you like this project, give it a star on GitHub!
 
 #✨ Home Page
-================================================================================
-<img width="959" height="539" alt="Screenshot 2026-10-14 174322"
-  src="https://github.com/user-attachments/assets/1ed8acaf-47d9-40fc
-  -8094-e40de8d601f5" />
+<img width="959" height="539" alt="Screenshot 2026-10-14 174322" src="https://github.com/user-attachments/assets/d7900f3e-3992-46c2-a24d-49ea6a8a4dab" />
+
+
 
 ✨ About us
 
