@@ -16,7 +16,7 @@ HTML5
 CSS3
 
 🚀 Getting Started
-============================================================================================================================
+================================================================================
 
 Clone the repository:
 
@@ -35,22 +35,23 @@ GitHub: @Ankitpandeyup51
 If you like this project, give it a star on GitHub!
 
 #✨ Home Page
+================================================================================
 <img width="959" height="539" alt="Screenshot 2026-10-14 174322" src="https://github.com/user-attachments/assets/d7900f3e-3992-46c2-a24d-49ea6a8a4dab" />
 
 #✨ About us
+================================================================================
 <img width="959" height="539" alt="Screenshot 2026-10-14 174358" src="https://github.com/user-attachments/assets/5d14f151-9bd7-4316-adcf-d6cbd912cea2" />
 
 
 #✨ Our Menu
 ================================================================================
 
-
 <img width="959" height="539" alt="Screenshot 2026-10-14 174433" src="https://github.com/user-attachments/assets/22ea394a-449d-4385-800d-c371fc731675" />
+
 <img width="959" height="539" alt="Screenshot 2026-10-14 174413" src="https://github.com/user-attachments/assets/f5a4626b-0a8b-45c5-b337-26dbaa8b0d1d" />
 
 #✨ Our Gallery
 ================================================================================
-
 
 <img width="959" height="539" alt="Screenshot 2026-10-14 174446" src="https://github.com/user-attachments/assets/24be69ac-3403-4b01-b70b-f2665da1d69b" />
 
@@ -71,10 +72,9 @@ If you like this project, give it a star on GitHub!
 
 
   #✨ Footer Bar
-  ================================================================================
-  <img width="959" height="539" alt="Screenshot 2026-10-14 174547" 
-    src="https://github.com/user-attachments/assets/6ac78d1a-8b09-4c45-a
-    abf-efc0332c58e5" />
+  ==============================================================================
+  <img width="959" height="539" alt="Screenshot 2026-10-14 174547" src="https://github.com/user-attachments/assets/b3fb21c3-f2be-42a7-912f-0508705046d0" />
+
 
 
 
