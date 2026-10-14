@@ -37,46 +37,38 @@ If you like this project, give it a star on GitHub!
 #✨ Home Page
 <img width="959" height="539" alt="Screenshot 2026-10-14 174322" src="https://github.com/user-attachments/assets/d7900f3e-3992-46c2-a24d-49ea6a8a4dab" />
 
+#✨ About us
+<img width="959" height="539" alt="Screenshot 2026-10-14 174358" src="https://github.com/user-attachments/assets/5d14f151-9bd7-4316-adcf-d6cbd912cea2" />
 
-
-✨ About us
-
-<img width="959" height="539" alt="Screenshot 2026-10-14 174358"
-  src="https://github.com/user-attachments/assets/8d427aa6-2c06-
-  4848-9999-cfc832ef6a32" />
 
 #✨ Our Menu
-==================================================================================
-<img width="959" height="539" alt="Screenshot 2026-10-14 174413" 
-  src="https://github.com/user-attachments/assets/c541600e-3850-44
-  7e-9822-9799a2d3fdc5" />
+================================================================================
 
-<img width="959" height="539" alt="Screenshot 2026-10-14 174433"
-  src="https://github.com/user-attachments/assets/9c0fd2a9-2b48-4
-  d87-b58f-9b550b4b0682" />
+
+<img width="959" height="539" alt="Screenshot 2026-10-14 174433" src="https://github.com/user-attachments/assets/22ea394a-449d-4385-800d-c371fc731675" />
+<img width="959" height="539" alt="Screenshot 2026-10-14 174413" src="https://github.com/user-attachments/assets/f5a4626b-0a8b-45c5-b337-26dbaa8b0d1d" />
 
 #✨ Our Gallery
-==================================================================================
-<img width="959" height="539" alt="Screenshot 2026-10-14 174446" 
-  src="https://github.com/user-attachments/assets/15c68eef-438e-46c
-  6-9fa9-15b2444a0654" />
+================================================================================
+
+
+<img width="959" height="539" alt="Screenshot 2026-10-14 174446" src="https://github.com/user-attachments/assets/24be69ac-3403-4b01-b70b-f2665da1d69b" />
 
 #✨ Customer Review
-==================================================================================
-<img width="959" height="539" alt="Screenshot 2026-10-14 174501" 
-  src="https://github.com/user-attachments/assets/66f2dd9c-aea4-4a
-  83-bc93-560acf192808" />
+================================================================================
+
+
+<img width="959" height="539" alt="Screenshot 2026-10-14 174501" src="https://github.com/user-attachments/assets/b80d7221-6967-4bf3-a05b-aa65608f43e2" />
 
 #✨ Order now
-==================================================================================
-<img width="959" height="533" alt="Screenshot 2026-10-14 174515"
-  src="https://github.com/user-attachments/assets/e3793fd6-69f4-49a5-
-  bf29-5a52d3480c10" />
+================================================================================
 
-#✨ Our team
-<img width="959" height="539" alt="Screenshot 2026-10-14 174527"
-  src="https://github.com/user-attachments/assets/e2e287df-a52b-
-  45bf-97bd-1305e4b85485" />
+<img width="959" height="533" alt="Screenshot 2026-10-14 174515" src="https://github.com/user-attachments/assets/7c7df903-997b-49e4-96bf-d3e06f8419b1" />
+
+#✨Our Team
+================================================================================
+<img width="959" height="539" alt="Screenshot 2026-10-14 174527" src="https://github.com/user-attachments/assets/126c58c7-eba5-44d1-af47-7b0c6fabf792" />
+
 
   #✨ Footer Bar
   ================================================================================
