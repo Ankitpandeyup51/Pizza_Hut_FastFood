@@ -40,8 +40,8 @@ If you like this project, give it a star on GitHub!
   src="https://github.com/user-attachments/assets/1ed8acaf-47d9-40fc
   -8094-e40de8d601f5" />
 
-#✨ About us
-================================================================================
+✨ About us
+
 <img width="959" height="539" alt="Screenshot 2026-10-14 174358"
   src="https://github.com/user-attachments/assets/8d427aa6-2c06-
   4848-9999-cfc832ef6a32" />
